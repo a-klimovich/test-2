@@ -1,0 +1,16 @@
+.agreement {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  padding-bottom: 5px;
+  line-height: 15px;
+  opacity: .56;
+  font-size: 12px;
+
+  a {
+    color: #000;
+    opacity: 0.8;
+    text-decoration: underline;
+  }
+}
